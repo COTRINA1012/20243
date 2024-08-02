@@ -9,5 +9,5 @@ p.sample2 {border: inset 10px #ff0000;}
 p.sample3 {
   margin: 30px 30px;
   padding: 10px;
-  border: solid #ff0000;
+  border: medium solid #ff00ff; 
 }
